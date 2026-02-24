@@ -47,12 +47,12 @@ responses = {
 }
 
 # GIF пути
-GIF_HELLO = "/storage/emulated/0/gifts/twitchcontorapidorov_by_fstikbot_agadofmaauph_us_AgADoFMAAuph_Us-ezgif.com-optimize.gif"
-YES_GIF = "/storage/emulated/0/gifts/pavapepegemabodiche_by_fstikbot_agadsygaartaeus.gif"
-NAH_GIF = "/storage/emulated/0/gifts/hamstersad_agadbkiaahxe0eo.gif"
-GIF_WIN = "/storage/emulated/0/gifts/IMG_20260223_225705_466.gif"
-GIF_LOSE = "/storage/emulated/0/gifts/IMG_20260223_225700_371.gif"
-GIF_RESTART = "/storage/emulated/0/gifts/VID_20260223_232355_159.gif"
+GIF_HELLO = "https://t.me/c/2203153231/447"
+YES_GIF = "https://t.me/c/2203153231/455"
+NAH_GIF = "https://t.me/c/2203153231/456"
+GIF_WIN = "https://t.me/c/2203153231/457"
+GIF_LOSE = "https://t.me/c/2203153231/458"
+GIF_RESTART = "https://t.me/c/2203153231/454"
 
 
 # ---------- ИИ ----------
